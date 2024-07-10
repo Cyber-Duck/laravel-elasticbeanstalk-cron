@@ -10,8 +10,8 @@
         }
     ],
     "require": {
-        "illuminate/support": "5 - 10",
-        "illuminate/console": "5 - 10",
+        "illuminate/support": "5 - 11",
+        "illuminate/console": "5 - 11",
         "aws/aws-sdk-php": "^3.26",
         "lstrojny/functional-php": "^1.17"
     },
